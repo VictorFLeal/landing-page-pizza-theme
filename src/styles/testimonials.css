@@ -53,7 +53,7 @@
     color: #e9a209;
 }
 
-@media screen and (max-width: 1170px) {
+@media screen and (max-width: 1540px) {
     #testimonials {
         flex-direction: column;
     }
